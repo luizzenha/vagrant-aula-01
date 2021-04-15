@@ -2,12 +2,11 @@ Para executar
 
 ``` vagrant up ```
 
-Para conexão externa a VM
+Para conectar ao mysql da VM
+```
+ - host: localhost or 127.0.0.1
+ - port: 3306
+ - user: zenha
+ - password: zenha
 
-IP: localhost
-
-Porta: 3306
-
-user: zenha
-
-password: zenha
+```
